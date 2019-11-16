@@ -1,0 +1,58 @@
+body {
+  background: rgb(63, 94, 251);
+  background: radial-gradient(
+    circle,
+    rgba(63, 94, 251, 1) 0%,
+    rgba(245, 246, 75, 1) 0%,
+    rgba(255, 92, 199, 1) 62%,
+    rgba(231, 145, 122, 1) 81%
+  );
+}
+h1 {
+  font-family: "Pacifico", cursive;
+  margin-top: 0%;
+  margin-left: 50vmax;
+
+  font-size: 55px;
+}
+img {
+  height: 30%;
+  width: 15%;
+  margin-left: 100vh;
+  border-radius: 50%;
+}
+h3 {
+  font-size: 50px;
+  margin-left: 44vmax;
+}
+h4 {
+  margin-left: 50%;
+  margin-bottom: 3%;
+  font-size: 30px;
+  font-family: "Indie Flower", cursive;
+}
+
+.one {
+  height: 50px;
+  width: 50px;
+  border-radius: 5%;
+}
+
+.two {
+  height: 50px;
+  width: 50px;
+  margin-left: 30px;
+  border-radius: 5%;
+}
+
+.three {
+  height: 50px;
+  width: 50px;
+  margin-top: 0px;
+  margin-right: 0%;
+  border-radius: 5%;
+}
+
+div {
+  display: inline-flex;
+}
